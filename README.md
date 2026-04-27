@@ -61,6 +61,7 @@ Network functionality was tested using ping commands:
 - Successful communication within VLANs
 - Successful inter-VLAN routing via the router
 - Blocked traffic based on ACL rules (e.g. HR → Cyber PCs)
+- Observed ARP resolution and initial packet delays during first-time connectivity
 - Verified security enforcement through “Destination host unreachable” responses
 
 ## Future Improvements
@@ -72,4 +73,4 @@ Network functionality was tested using ping commands:
 
 ## Author
 
-Sneha Besu  
+Sneha Besu
