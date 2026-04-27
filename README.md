@@ -20,7 +20,7 @@ The network consists of three main departments:
 - **IT Network** – 192.168.2.0/24  
 - **Cybersecurity Network** – 192.168.3.0/24  
 
-Each department is isolated using VLANs, with communication handled via a router using inter-VLAN routing (router-on-a-stick).
+Each department is isolated using VLANs, with communication handled via a router using inter-VLAN routing.
 
 ## Tools and Technologies
 
