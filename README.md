@@ -1,5 +1,7 @@
 # Secure Enterprise Network Simulation (Cisco Packet Tracer)
 
+An enterprise network simulation with VLAN segmentation, inter-VLAN routing, trunking, and ACL-based security using Cisco Packet Tracer.
+
 ## Network Topology
 
 <p align="center">
