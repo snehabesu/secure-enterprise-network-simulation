@@ -10,9 +10,7 @@ An enterprise network simulation with VLAN segmentation, inter-VLAN routing, tru
 
 ## Project Overview
 
-This project simulates a secure enterprise network environment using Cisco Packet Tracer. The network is designed to represent multiple departments within an organisation, including HR, IT, and Cybersecurity, with controlled communication between them. 
-
-The implementation focuses on network segmentation, inter-VLAN communication, and access control to ensure secure and efficient data flow across departments.
+This project simulates a secure enterprise network environment using Cisco Packet Tracer. The network is designed to represent multiple departments within an organisation, including HR, IT, and Cybersecurity, with controlled communication between them.
 
 The design reflects real-world enterprise networking practices, including segmentation for security and controlled inter-department communication.
 
