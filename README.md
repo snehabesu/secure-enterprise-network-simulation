@@ -45,7 +45,7 @@ Access Control Lists (ACLs) were implemented to enforce security policies:
 
 - **Cybersecurity Network**: Full access to all networks  
 - **IT Network**: Access to HR and shared server only  
-- **HR Network**: Restricted access to IT and shared server only  
+- **HR Network**: Access to IT and shared server only  
 - Direct access to Cybersecurity devices is blocked from other departments  
 
 This ensures sensitive systems remain protected while still allowing necessary communication.
