@@ -22,7 +22,7 @@ The network consists of three main departments:
 - **IT Network** – 192.168.2.0/24  
 - **Cybersecurity Network** – 192.168.3.0/24
 
-Each department is isolated using VLANs, with communication handled via a router using inter-VLAN routing (router-on-a-stick) over trunk links between switches.
+Each department is isolated using VLANs, with communication handled via a router using inter-VLAN routing over trunk links between switches.
 
 A shared server is hosted within the Cybersecurity network and is accessible to HR and IT, while direct access to other Cybersecurity devices is restricted.
 
@@ -59,7 +59,7 @@ This ensures sensitive systems remain protected while still allowing necessary c
 Network functionality was tested using ping commands:
 
 - Successful communication within VLANs
-- Successful inter-VLAN routing via router (router-on-a-stick)
+- Successful inter-VLAN routing via router
 - Blocked traffic based on ACL rules (e.g. HR → Cyber PCs)
 - Verified security enforcement through “Destination host unreachable” responses
 
