@@ -58,10 +58,10 @@ This ensures sensitive systems remain protected while still allowing necessary c
 
 Network functionality was tested using ping commands:
 
-- Successful communication within VLANs  
-- Successful inter-VLAN routing via router  
-- Blocked traffic based on ACL rules (e.g. HR → Cyber PCs)  
-- Verified security enforcement through “Destination host unreachable” responses  
+- Successful communication within VLANs
+- Successful inter-VLAN routing via router (router-on-a-stick)
+- Blocked traffic based on ACL rules (e.g. HR → Cyber PCs)
+- Verified security enforcement through “Destination host unreachable” responses
 
 ## Future Improvements
 
