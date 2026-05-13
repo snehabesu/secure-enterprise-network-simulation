@@ -41,7 +41,7 @@ A shared server is hosted within the Cybersecurity network and is accessible to 
 - Trunk links to allow multiple VLANs over a single connection  
 - Router subinterfaces configured for inter-VLAN communication  
 - Controlled access between departments using ACLs  
-- End-to-end connectivity testing using ICMP (ping)
+- End-to-end connectivity testing using ICMP (Ping)
 
 ## Security Implementation
 
